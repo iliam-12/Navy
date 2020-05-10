@@ -1,6 +1,5 @@
 # navy
 ## 40,5%
-
-_PDF is available_
+PDF is available
 #### Usage:
     navy -h
