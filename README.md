@@ -1,5 +1,4 @@
 # navy
-## 40,5%
-PDF is available
+PDF available
 #### Usage:
     navy -h
