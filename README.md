@@ -1,4 +1,4 @@
 # navy
 PDF available
 #### Usage:
-    navy -h
+    make re && navy -h
